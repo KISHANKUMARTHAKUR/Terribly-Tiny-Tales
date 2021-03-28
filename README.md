@@ -10,12 +10,4 @@ CREATE TABLE  "RESULT"
    )  
 
 
-<html>  
-<body>  
-<form action="servlet/Search">  
-Enter your Rollno:<input type="text" name="roll"/><br/>  
-  
-<input type="submit" value="search"/>  
-</form>  
-</body>  
-</html>  
+ 
